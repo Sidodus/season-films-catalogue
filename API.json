@@ -1,0 +1,2155 @@
+{
+    "Game_Of_Thrones": {
+        "season_film": true,
+        "sound_track": "SeasonFilmsCasts/GOT/GOT2/Game_of_Thrones_Main_Title_sample.ogg",
+        "got_actors": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/GOT/aemon-targaryen-1024.jpg",
+                "name": "",
+                "stage_name": "Aemon Targaryen",
+                "movie": "GOT",
+                "gender": "Male"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/GOT/allister-thorne-1024.jpg",
+                "name": "",
+                "stage_name": "Allister Thorne",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/GOT/areo-hotah-1024.jpg",
+                "name": "",
+                "stage_name": "Areo Hotah",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/GOT/arya-stark-1024.jpg",
+                "name": "Maisie",
+                "stage_name": "Arya Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/GOT/balon-greyjoy-1024.jpg",
+                "name": "",
+                "stage_name": "Balon Greyjoy",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/GOT/barristan-selmy-1024.jpg",
+                "name": "",
+                "stage_name": "Barristan Selmy",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/GOT/benjen-stark-1024.jpg",
+                "name": "",
+                "stage_name": "Benjen Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/GOT/beric-dondarron-1024.jpg",
+                "name": "",
+                "stage_name": "Beric Dondarron",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/GOT/blackfish-tully-1024.jpg",
+                "name": "",
+                "stage_name": "Blackfish Tully",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/GOT/bran-stark-1024.jpg",
+                "name": "Isaac Hempstead Wright",
+                "stage_name": "Bran Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/GOT/brienne-of-tarth-1024.jpg",
+                "name": "Christie",
+                "stage_name": "Brienne of Tarth",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/GOT/bronn-1024.jpg",
+                "name": "",
+                "stage_name": "Bronn",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/GOT/brother-ray-1024.jpg",
+                "name": "",
+                "stage_name": "Brother Ray",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/GOT/catelyn-stark-1024.jpg",
+                "name": "fairley",
+                "stage_name": "Catelyn Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/GOT/cersei-lannister-1024.jpg",
+                "name": "Lena",
+                "stage_name": "Cersei Lannister",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/GOT/daario-naharis-1024.jpg",
+                "name": "Michiel Huisman",
+                "stage_name": "Daario Naharis",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/GOT/daenarys-1024.jpg",
+                "name": "Emilia",
+                "stage_name": "Daenarys Targaryen",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/GOT/davos-seaworth-1024.jpg",
+                "name": "Liam Cunningham",
+                "stage_name": "Davos Seaworth",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/GOT/dickon-tarly-1024.jpg",
+                "name": "",
+                "stage_name": "Dickon- Tarly",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/GOT/doran-martell-1024.jpg",
+                "name": "",
+                "stage_name": "Doran Martell",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/GOT/eddard-ned-stark-1024.jpg",
+                "name": "",
+                "stage_name": "Eddard Ned Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/GOT/ellaria-sand-1024.jpg",
+                "name": "Indira Varma",
+                "stage_name": "Ellaria Sand",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/GOT/euron-greyjoy-1024.jpg",
+                "name": "",
+                "stage_name": "Euron Greyjoy",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/GOT/gilly-1024.jpg",
+                "name": "",
+                "stage_name": "Gilly",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/GOT/grenn-1024.jpg",
+                "name": "",
+                "stage_name": "Grenn",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 26,
+                "image": "SeasonFilmsCasts/GOT/high-priestess-1024.jpg",
+                "name": "",
+                "stage_name": "High Priestess",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 27,
+                "image": "SeasonFilmsCasts/GOT/high-sparrow-1024.jpg",
+                "name": "",
+                "stage_name": "High Sparrow",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 28,
+                "image": "SeasonFilmsCasts/GOT/hodor-1024.jpg",
+                "name": "Kristian Nairn",
+                "stage_name": "Hodor",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 29,
+                "image": "SeasonFilmsCasts/GOT/illyrio-1024.jpg",
+                "name": "",
+                "stage_name": "Illyrio",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 30,
+                "image": "SeasonFilmsCasts/GOT/irri-1024.jpg",
+                "name": "",
+                "stage_name": "irri",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 31,
+                "image": "SeasonFilmsCasts/GOT/izembaro-1024.jpg",
+                "name": "",
+                "stage_name": "Izembaro",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 32,
+                "image": "SeasonFilmsCasts/GOT/janos-slynt-1024.jpg",
+                "name": "",
+                "stage_name": "Janos Slynt",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 33,
+                "image": "SeasonFilmsCasts/GOT/jaqen-hghar-1024.jpg",
+                "name": "Thomas-Wlaschiha",
+                "stage_name": "Jaqen Hghar",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 34,
+                "image": "SeasonFilmsCasts/GOT/jeor-mormont-1024.jpg",
+                "name": "",
+                "stage_name": "Jeor Mormont",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 35,
+                "image": "SeasonFilmsCasts/GOT/joffrey-1024.jpg",
+                "name": "Gleeson",
+                "stage_name": "Joffrey Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 36,
+                "image": "SeasonFilmsCasts/GOT/john-snow-1024.jpg",
+                "name": "Kit Harrington",
+                "stage_name": "John Snow",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 37,
+                "image": "SeasonFilmsCasts/GOT/jorah-mormont-1024.jpg",
+                "name": "Iain Glen",
+                "stage_name": "Jorah Mormont",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 38,
+                "image": "SeasonFilmsCasts/GOT/jory-cassel-1024.jpg",
+                "name": "",
+                "stage_name": "Jory Cassel",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 39,
+                "image": "SeasonFilmsCasts/GOT/karstark-1024.jpg",
+                "name": "",
+                "stage_name": "Karstark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 40,
+                "image": "SeasonFilmsCasts/GOT/khal-moro-v2-1024.jpg",
+                "name": "",
+                "stage_name": "Khal-Moro",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 41,
+                "image": "SeasonFilmsCasts/GOT/lady-crane-1024.jpg",
+                "name": "",
+                "stage_name": "Lady Crane",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 42,
+                "image": "SeasonFilmsCasts/GOT/lancel-lannister-1024.jpg",
+                "name": "",
+                "stage_name": "Lancel Lannister",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 43,
+                "image": "SeasonFilmsCasts/GOT/lysa-arryn-1024.jpg",
+                "name": "",
+                "stage_name": "Lysa Arryn",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 44,
+                "image": "SeasonFilmsCasts/GOT/maester-luwin-1024.jpg",
+                "name": "",
+                "stage_name": "Maester Luwin",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 45,
+                "image": "SeasonFilmsCasts/GOT/maester-pycelle-1024.jpg",
+                "name": "",
+                "stage_name": "Maester Pycelle",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 46,
+                "image": "SeasonFilmsCasts/GOT/maetser-varys-1024.jpg",
+                "name": "",
+                "stage_name": "Maetser Varys",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 47,
+                "image": "SeasonFilmsCasts/GOT/mance-rayder-1024.jpg",
+                "name": "",
+                "stage_name": "Mance Rayder",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 48,
+                "image": "SeasonFilmsCasts/GOT/margarey-tyrell-1024.jpg",
+                "name": "Natalie Dormer",
+                "stage_name": "Margarey Tyrell",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 49,
+                "image": "SeasonFilmsCasts/GOT/marillion-1024.jpg",
+                "name": "",
+                "stage_name": "Marillion",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 50,
+                "image": "SeasonFilmsCasts/GOT/melisandre-1024.jpg",
+                "name": "Carice",
+                "stage_name": "Melisandre",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 51,
+                "image": "SeasonFilmsCasts/GOT/mirri-maz-duur-1024.jpg",
+                "name": "",
+                "stage_name": "Mirri Maz Duur",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 52,
+                "image": "SeasonFilmsCasts/GOT/missandei-1024.jpg",
+                "name": "Nathalie Emmanuel",
+                "stage_name": "Missandei",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 53,
+                "image": "SeasonFilmsCasts/GOT/myrcella-baratheon-1024.jpg",
+                "name": "Nell Tiger Free",
+                "stage_name": "Myrcella Baratheon",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 54,
+                "image": "SeasonFilmsCasts/GOT/nymeria-sand-1024.jpg",
+                "name": "",
+                "stage_name": "Nymeria Sand",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 55,
+                "image": "SeasonFilmsCasts/GOT/obera-sand-1024.jpg",
+                "name": "",
+                "stage_name": "Obera Sand",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 56,
+                "image": "SeasonFilmsCasts/GOT/oberyn-1024.jpg",
+                "name": "",
+                "stage_name": "Oberyn",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 57,
+                "image": "SeasonFilmsCasts/GOT/olenna-tyrell-1024.jpg",
+                "name": "",
+                "stage_name": "Olenna Tyrell",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 58,
+                "image": "SeasonFilmsCasts/GOT/orell-1024.jpg",
+                "name": "",
+                "stage_name": "Orell",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 59,
+                "image": "SeasonFilmsCasts/GOT/osha-1024.jpg",
+                "name": "",
+                "stage_name": "Osha",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 60,
+                "image": "SeasonFilmsCasts/GOT/petyr-baelish-1024.jpg",
+                "name": "Aiden",
+                "stage_name": "Petyr Baelish",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 61,
+                "image": "SeasonFilmsCasts/GOT/podrick-payne-1024.jpg",
+                "name": "",
+                "stage_name": "Podrick Payne",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 62,
+                "image": "SeasonFilmsCasts/GOT/pyp-1024.jpg",
+                "name": "",
+                "stage_name": "Pyp",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 63,
+                "image": "SeasonFilmsCasts/GOT/qyburn-1024.jpg",
+                "name": "",
+                "stage_name": "Qyburn",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 64,
+                "image": "SeasonFilmsCasts/GOT/ramsay-1024.jpg",
+                "name": "Iwan Rheon",
+                "stage_name": "Ramsay",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 65,
+                "image": "SeasonFilmsCasts/GOT/randyll-tarly-1024.jpg",
+                "name": "",
+                "stage_name": "Randyll Tarly",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 66,
+                "image": "SeasonFilmsCasts/GOT/rattleshirt-1024.jpg",
+                "name": "",
+                "stage_name": "Rattleshirt",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 67,
+                "image": "SeasonFilmsCasts/GOT/renly-baratheon-1024.jpg",
+                "name": "",
+                "stage_name": "Renly Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 68,
+                "image": "SeasonFilmsCasts/GOT/rickon-stark-1024.jpg",
+                "name": "",
+                "stage_name": "Rickon Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 69,
+                "image": "SeasonFilmsCasts/GOT/robert-baratheon-1024.jpg",
+                "name": "",
+                "stage_name": "Robert Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 70,
+                "image": "SeasonFilmsCasts/GOT/robert-stark-1024.jpg",
+                "name": "Madden",
+                "stage_name": "Robert Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 71,
+                "image": "SeasonFilmsCasts/GOT/robyn-arryn-1024.jpg",
+                "name": "",
+                "stage_name": "Robyn Arryn",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 72,
+                "image": "SeasonFilmsCasts/GOT/roose-bolton-1024.jpg",
+                "name": "",
+                "stage_name": "Roose Bolton",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 73,
+                "image": "SeasonFilmsCasts/GOT/ros-1024.jpg",
+                "name": "",
+                "stage_name": "Ros",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 74,
+                "image": "SeasonFilmsCasts/GOT/samwell-1024.jpg",
+                "name": "",
+                "stage_name": "Samwell Tarly",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 75,
+                "image": "SeasonFilmsCasts/GOT/sandor-clegane-1024.jpg",
+                "name": "Mccann",
+                "stage_name": "Sandor Clegane",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 76,
+                "image": "SeasonFilmsCasts/GOT/sansa-stark-1024.jpg",
+                "name": "Sophie Turner",
+                "stage_name": "Sansa Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 77,
+                "image": "SeasonFilmsCasts/GOT/septa-mordane-1024.jpg",
+                "name": "",
+                "stage_name": "Septa Mordane",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 78,
+                "image": "SeasonFilmsCasts/GOT/ser-rodrik-cassel-1024.jpg",
+                "name": "",
+                "stage_name": "Ser Rodrik Cassel",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 79,
+                "image": "SeasonFilmsCasts/GOT/shae-1024.jpg",
+                "name": "Sibel",
+                "stage_name": "Shae",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 80,
+                "image": "SeasonFilmsCasts/GOT/stannis-1024.jpg",
+                "name": "",
+                "stage_name": "Stannis Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 81,
+                "image": "SeasonFilmsCasts/GOT/syrio-forel-1024.jpg",
+                "name": "",
+                "stage_name": "Syrio Forel",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 82,
+                "image": "SeasonFilmsCasts/GOT/talisa-stark-1024.jpg",
+                "name": "",
+                "stage_name": "Talisa Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 83,
+                "image": "SeasonFilmsCasts/GOT/thoros-1024.jpg",
+                "name": "",
+                "stage_name": "Thoros",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 84,
+                "image": "SeasonFilmsCasts/GOT/tommon-baratheon-1024.jpg",
+                "name": "Dean Charles Chapman",
+                "stage_name": "Tommon Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 85,
+                "image": "SeasonFilmsCasts/GOT/tormund-1024.jpg",
+                "name": "",
+                "stage_name": "Tormund",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 86,
+                "image": "SeasonFilmsCasts/GOT/trystane-martell-1024.jpg",
+                "name": "",
+                "stage_name": "Trystane Martell",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 87,
+                "image": "SeasonFilmsCasts/GOT/tyrion-lannister-1024.jpg",
+                "name": "Dinklage",
+                "stage_name": "Tyrion-Lannister",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 88,
+                "image": "SeasonFilmsCasts/GOT/tywin-lannister-1024.jpg",
+                "name": "",
+                "stage_name": "Tywin Lannister",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 89,
+                "image": "SeasonFilmsCasts/GOT/viserys-targaryen-1024.jpg",
+                "name": "",
+                "stage_name": "Viserys Targaryen",
+                "movie": "GOT",
+                "gender": "Male"
+                       },
+            {
+                "id": 90,
+                "image": "SeasonFilmsCasts/GOT/yara-greyjoy-1024.jpg",
+                "name": "",
+                "stage_name": "Yara Greyjoy",
+                "movie": "GOT",
+                "gender": "Female"
+                       },
+            {
+                "id": 91,
+                "image": "SeasonFilmsCasts/GOT/ygritte-1024.jpg",
+                "name": "Leslie Rose",
+                "stage_name": "Ygritte",
+                "movie": "GOT",
+                "gender": "Female"
+                       }],
+        "GOT2": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/GOT/GOT2/aiden.jpg",
+                "name": "Aiden",
+                "stage_name": "Petyr Baelish",
+                "movie": "GOT",
+                "gender": "Male"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/GOT/GOT2/alfie.jpg",
+                "name": "Alfie",
+                "stage_name": "Greyjoy",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/GOT/GOT2/carice.jpg",
+                "name": "Carice",
+                "stage_name": "Melisandre",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/GOT/GOT2/christie.jpg",
+                "name": "Christie",
+                "stage_name": "Brienne of Tarth",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Dean-Charles-Chapman.jpg",
+                "name": "Dean Charles Chapman",
+                "stage_name": "Tommon Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/GOT/GOT2/dinklage.jpg",
+                "name": "Dinklage",
+                "stage_name": "Tyrion-Lannister",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/GOT/GOT2/emilia.jpg",
+                "name": "Emilia",
+                "stage_name": "Daenarys Targaryen",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/GOT/GOT2/fairley.jpg",
+                "name": "Fairley",
+                "stage_name": "Catelyn Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/GOT/GOT2/gleeson.jpg",
+                "name": "Gleeson",
+                "stage_name": "Joffrey Baratheon",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Iain-Glen.jpg",
+                "name": "Iain Glen",
+                "stage_name": "Jorah Mormont",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Indira-Varma.jpg",
+                "name": "Indira Varma",
+                "stage_name": "Ellaria Sand",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Isaac-Hempstead-Wright.jpg",
+                "name": "Isaac Hempstead Wright",
+                "stage_name": "Bran Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Iwan-Rheon.jpg",
+                "name": "Iwan Rheon",
+                "stage_name": "Ramsay",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Jacob-Anderson.jpg",
+                "name": "Jacob Anderson",
+                "stage_name": "",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/GOT/GOT2/joel-fry.jpg",
+                "name": "Joel Fry",
+                "stage_name": "",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/GOT/GOT2/kit-harrington.jpg",
+                "name": "Kit Harrington",
+                "stage_name": "John Snow",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Kristian-Nairn.jpg",
+                "name": "Kristian Nairn",
+                "stage_name": "Hodor",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/GOT/GOT2/lena.jpg",
+                "name": "Lena",
+                "stage_name": "Cersei Lannister",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/GOT/GOT2/leslie-rose.jpg",
+                "name": "Leslie Rose",
+                "stage_name": "Ygritte",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Liam-Cunningham.jpg",
+                "name": "Liam Cunningham",
+                "stage_name": "Davos Seaworth",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/GOT/GOT2/madden.jpg",
+                "name": "Madden",
+                "stage_name": "Robert Stark",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/GOT/GOT2/maisie.jpg",
+                "name": "Maisie",
+                "stage_name": "Arya Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/GOT/GOT2/mccann.jpg",
+                "name": "Mccann",
+                "stage_name": "Sandor Clegane",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Michiel-Huisman.jpg",
+                "name": "Michiel Huisman",
+                "stage_name": "Daario Naharis",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/GOT/GOT2/natalie-dormer.jpg",
+                "name": "Natalie Dormer",
+                "stage_name": "Margarey Tyrell",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 26,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Nathalie_Emmanuel.jpg",
+                "name": "Nathalie Emmanuel",
+                "stage_name": "Missandei",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 27,
+                "image": "SeasonFilmsCasts/GOT/GOT2/nell-tiger-free.jpg",
+                "name": "Nell Tiger Free",
+                "stage_name": "Myrcella Baratheon",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 28,
+                "image": "SeasonFilmsCasts/GOT/GOT2/nik.jpg",
+                "name": "Nik",
+                "stage_name": "Jimmy Lannister",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 29,
+                "image": "SeasonFilmsCasts/GOT/GOT2/sibel.jpg",
+                "name": "Sibel",
+                "stage_name": "Shae",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 30,
+                "image": "SeasonFilmsCasts/GOT/GOT2/sophie-turner.jpg",
+                "name": "Sophie Turner",
+                "stage_name": "Sansa Stark",
+                "movie": "GOT",
+                "gender": "Female"
+                 },
+            {
+                "id": 31,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Stephen-Dillane.jpg",
+                "name": "Stephen Dillane",
+                "stage_name": "",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 32,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Thomas-Brodie-Sangster.jpg",
+                "name": "Thomas-Brodie-Sangster",
+                "stage_name": "",
+                "movie": "GOT",
+                "gender": "Male"
+                 },
+            {
+                "id": 33,
+                "image": "SeasonFilmsCasts/GOT/GOT2/Thomas-Wlaschiha.jpg",
+                "name": "Thomas-Wlaschiha",
+                "stage_name": "Jaqen Hghar",
+                "movie": "GOT",
+                "gender": "Male"
+                 }],
+        "GOTQuotes": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2001.jpg",
+                "Title": "GOT Quotes"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2002.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2003.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2004.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2005.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2006.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2007.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2008.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%2009.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20010.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20011.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20012.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20013.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20014.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20015.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20016.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20017.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20018.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20019.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20020.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20021.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20022.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20023.png",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20024.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20025.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 26,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20026.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 27,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20027.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 28,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20028.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 29,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20029.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 30,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20030.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 31,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20031.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 32,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20032.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 33,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20033.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 34,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20034.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 35,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20035.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 36,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20036.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 37,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20037.png",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 38,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20038.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 39,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20039.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 40,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20040.png",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 41,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20041.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 42,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20042.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 43,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20043.png",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 44,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20044.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 45,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20045.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 46,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20046.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 47,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20047.jpg",
+                "Title": "GOT Quotes"
+                      },
+            {
+                "id": 48,
+                "image": "SeasonFilmsCasts/GOT/GOTQuotes/GOT%20QUOTES%20048.png",
+                "Title": "GOT Quotes"
+                      }],
+        "GOTWallpapers": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2001.jpg",
+                "Title": "GOT Wallpapers"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2002.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2003.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2004.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2005.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2006.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2007.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2008.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%2009.png",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20010.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20011.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20012.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20013.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20014.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20015.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20016.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20017.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20018.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20019.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20020.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20021.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20022.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20023.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20024.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20025.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 26,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20026.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 27,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20027.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 28,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20028.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 29,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20029.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 30,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20030.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 31,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20031.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 32,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20032.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 33,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20033.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 34,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20034.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 35,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20035.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 36,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20036.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 37,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20037.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 38,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20038.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 39,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20039.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 40,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20040.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 41,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20041.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 42,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20042.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 43,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20043.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 44,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20044.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 45,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20045.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 46,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20046.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 47,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20047.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 48,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20048.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 49,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20049.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 50,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20050.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 51,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20051.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 52,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20052.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 53,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20053.jpg",
+                "Title": "GOT Wallpapers"
+                          },
+            {
+                "id": 54,
+                "image": "SeasonFilmsCasts/GOT/GOTWallpaper/GOT%20054.jpg",
+                "Title": "GOT Wallpapers"
+                          }]
+    },
+    "Money_Heist": {
+        "season_film": true,
+        "sound_track": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Bella%20Ciao%20Money%20Heist.ogg",
+        "sound_track2": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/La%20casa%20de%20papel%20-%20My%20Life%20Is%20Going%20On.ogg",
+        "money_heist_actors": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/MoneyHeist/Ariadna%20-%20Clara%20Alvarado%20(12%20episodes%202017).jpg",
+                "name": "Clara Alvarado",
+                "stage_name": "Ariadna",
+                "movie": "Money Heist",
+                "gender": "Female"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/MoneyHeist/Arturo%20Rom%C3%A1n%20-%20Enrique%20Arce%20(23%20episodes%202017-2019).jpg",
+                "name": "Enrique Arce",
+                "stage_name": "Arturo Román",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/MoneyHeist/Berl%C3%ADn%20-%20Pedro%20Alonso%20(23%20episodes%202017-2019).jpg",
+                "name": "Pedro Alonso",
+                "stage_name": "Berlín",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/MoneyHeist/Coronel%20Tamayo%20-%20Fernando%20Cayo%20(7%20episodes%202019.jpg",
+                "name": "Fernando Cayo",
+                "stage_name": "Coronel Tamayo",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/MoneyHeist/Denver%20-%20Jaime%20Lorente%20(23%20episodes%202017-2019).jpg",
+                "name": "Jaime Lorente",
+                "stage_name": "Denver",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/MoneyHeist/El%20Profesor%20-%20%C3%81lvaro%20Morte%20(23%20episodes%202017-2019).jpg",
+                "name": "Álvaro Morte",
+                "stage_name": "El Profesor",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/MoneyHeist/Helsinki%20-%20Darko%20Peric%20(23%20episodes%202017-2019).jpg",
+                "name": "Darko Peric",
+                "stage_name": "Helsinki",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/MoneyHeist/M%C3%B3nica%20Gaztambide%20%20Stockholm%20-%20Esther%20Acebo%20(23%20episodes%202017-2019).jpg",
+                "name": "Esther Acebo",
+                "stage_name": "Mónica Gaztambide / Stockholm",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/MoneyHeist/Monje%20Joao%20-%20Neymar%20Jr%20(2%20episodes%202019).jpg",
+                "name": "Neymar Jr",
+                "stage_name": "Monje Joao",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/MoneyHeist/Mosc%C3%BA%20-%20Paco%20Tous%20(17%20episodes%202017-2019).jpg",
+                "name": "Paco Tous",
+                "stage_name": "Moscú",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/MoneyHeist/Nairobi%20-%20Alba%20Flores%20(23%20episodes%202017-2019).jpg",
+                "name": "Alba Flores",
+                "stage_name": "Nairobi",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/MoneyHeist/Palermo%20%20-%20Rodrigo%20De%20la%20Serna%20(8%20episodes%202019).jpg",
+                "name": "Rodrigo De la Serna",
+                "stage_name": "Palermo",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/MoneyHeist/Raquel%20Murillo%20%20Lisboa%20-%20Itziar%20Itu%C3%B1o%20(23%20episodes%202017-2019).jpg",
+                "name": "Itziar Ituño",
+                "stage_name": "Raquel Murillo / Lisboa",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/MoneyHeist/R%C3%ADo%20-%20Miguel%20Herr%C3%A1n%20(23%20episodes%202017-2019).jpg",
+                "name": "Miguel Herrán",
+                "stage_name": "Río",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/MoneyHeist/Su%C3%A1rez%20-%20Mario%20de%20la%20Rosa%20(21%20episodes%202017-2019).jpg",
+                "name": "Mario de la Rosa",
+                "stage_name": "Suárez",
+                "movie": "Money Heist",
+                "gender": "Male"
+                               },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/MoneyHeist/Tokio%20-%20%C3%9Arsula%20Corber%C3%B3%20(23%20episodes%202017-2019).jpg",
+                "name": "Úrsula Corberó",
+                "stage_name": "Tokio",
+                "movie": "Money Heist",
+                "gender": "Female"
+                               }],
+        "money_heist_actors2": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Arturo%20Rom%C3%A1n%20-%20Enrique%20Arce.jpg",
+                "name": "Enrique Arce",
+                "stage_name": "Arturo Román",
+                "movie": "Money Heist",
+                "gender": "Male"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Berl%C3%ADn%20-%20Pedro%20Alonso%20(23%20episodes%202017-2019)2.jpg",
+                "name": "Pedro Alonso",
+                "stage_name": "Berlín",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Coronel%20Tamayo%20-%20Fernando%20Cayo%20(7%20episodes%202019)2.jpg",
+                "name": "Fernando Cayo",
+                "stage_name": "Coronel Tamayo",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/El%20Profesor%20-%20%C3%81lvaro%20Morte%20(23%20episodes%202017-2019)2.jpg",
+                "name": "Álvaro Morte",
+                "stage_name": "El Profesor",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Helsinki%20-%20Darko%20Peric%20(23%20episodes%202017-2019)2.jpg",
+                "name": "Darko Peric",
+                "stage_name": "Helsinki",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Monje%20Joao%20-%20Neymar%20Jr%20(2%20episodes%202019)2.jpg",
+                "name": "Neymar Jr",
+                "stage_name": "Monje Joao",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Nairobi%20-%20Alba%20Flores%20(23%20episodes%202017-2019)2.jpg",
+                "name": "Alba Flores",
+                "stage_name": "Nairobi",
+                "movie": "Money Heist",
+                "gender": "female"
+                                },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Palermo%20-%20Rodrigo%20De%20la%20Serna%20(8%20episodes%202019)2.jpg",
+                "name": "Rodrigo De la Serna",
+                "stage_name": "Palermo",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Su%C3%A1rez%20-%20Mario%20de%20la%20Rosa%20(21%20episodes%202017-2019)2.jpg",
+                "name": "Mario de la Rosa",
+                "stage_name": "Suárez",
+                "movie": "Money Heist",
+                "gender": "Male"
+                                },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/MoneyHeist/MoneyHeist2/Tokio%20-%20%C3%9Arsula%20Corber%C3%B3%20(23%20episodes%202017-2019)%202.jpg",
+                "name": "Úrsula Corberó",
+                "stage_name": "Tokio",
+                "movie": "Money Heist",
+                "gender": "female"
+                                }],
+        "moneyHeistWallpaper": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2001.jpg",
+                "Title": "Money Heist Wallpaper"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2002.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2003.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2004.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2005.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2006.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2007.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2008.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%2009.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20010.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20011.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20012.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20013.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20014.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20015.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20016.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20017.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20018.png",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20019.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20020.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20021.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20022.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20023.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20024.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20025.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 26,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20026.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 27,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20027.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 28,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20028.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 29,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20029.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 30,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20030.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 31,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20031.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 32,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20032.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 33,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20033.png",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 34,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20034.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 35,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20035.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 36,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20036.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 37,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20037.png",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 38,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20038.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 39,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20039.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 40,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20040.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 41,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20041.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 42,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20042.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 43,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20043.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 44,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20044.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 45,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20045.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 46,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20046.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 47,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20047.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 48,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20048.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 49,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20049.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 50,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20050.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 51,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20051.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 52,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20052.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 53,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20053.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 54,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20054.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 55,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20055.png",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 56,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20056.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 57,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20057.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 58,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20058.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 59,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20059.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 60,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20060.jpg",
+                "Title": "Money Heist Wallpaper"
+                                },
+            {
+                "id": 61,
+                "image": "SeasonFilmsCasts/MoneyHeist/moneyHeistWallpaper/Money%20Heist%20061.jpg",
+                "Title": "Money Heist Wallpaper"
+                                }]
+    },
+    "Sofia_The_First": {
+        "Cartoon_season_film": true,
+        "sound_track": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st.ogg",
+        "Sofia_The_First_Wallpaper": [{
+                "id": 1,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2001.jpg",
+                "Title": "Sofia The First Wallpaper"
+        },
+            {
+                "id": 2,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2002.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 3,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2003.png",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 4,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2004.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 5,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2005.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 6,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2006.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 7,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2007.png",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 8,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2008.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 9,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%2009.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 10,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20010.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 11,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20011.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 12,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20012.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 13,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20013.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 14,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20014.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 15,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20015.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 16,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20016.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 17,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20017.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 18,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20018.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 19,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20019.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 20,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20020.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 21,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20021.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 22,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20022.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 23,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20023.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 24,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20024.jpg",
+                "Title": "Sofia The First Wallpaper"
+                                      },
+            {
+                "id": 25,
+                "image": "SeasonFilmsCasts/SofiaD1st/SofiaWallpaper/Sofia%20D%201st%20025.jpg",
+                "Title": "Sofia The First Wallpaper"
+        }]
+    }
+}

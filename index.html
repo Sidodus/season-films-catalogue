@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="bootstrap/src/css/animate.css" type="text/css">
+    <link rel="stylesheet" href="bootstrap/src/css/bootstrap.min.css" type="text/css">
+
+    <title>Season Films Catalogue</title>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-dark bg-dark mb-3 sticky-top">
+        <div class="container-fluid">
+            <!--            Navbar Brand-->
+            <a id="logo" href="#" class="navbar-brand"><img src="SeasonFilmsCasts/Logo/Saheed-Odulaja-JS3D-Logo-JS-by-me+-(NON_White_UI).png" style="width: 7%"> Season Films Catalogue</a>
+
+            <!--            Navbar Toggle-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"><span class="navbar-toggler-icon"></span> </button>
+
+            <!--            Navbar Links-->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link clear-btn2" href="#">Select An Option <span style="color: gold">(OR click me to clear display)</span></a></li>
+                    <li class="nav-item"><a class="nav-link href-got2" href="#">Game Of Thrones</a></li>
+                    <li class="nav-item"><a class="nav-link href-money-heist2" href="#">Money Heist / La Casa De Papel</a></li>
+                    <li class="nav-item"><a class="nav-link href-wallpapers2" href="#">WallPapers...</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav> <!-- END OF NAVBAR --->
+
+    <!-- Body UI -->
+    <div class="container-fluid card search-container p-2">
+        <div class="search card-header">
+            <h1 id="catalogue" class="animated heartBeat text-center" style="color: darkgoldenrod">Season Films Catalogue </h1>
+
+            <audio id="sound-track" autoplay loop controls buffered style="display: none" class="mb-2 sticky-top"></audio>
+
+            <!-- Dropdown Menu -->
+            <div id="dropdown-menu" class="dropdown dropright mb-2">
+                <button type="button" class="btn btn-primary droupdown-toggle" data-toggle="dropdown">Select A Season Film <span class="spinner-grow spinner-grow-sm"></span> </button>
+                <div class="dropdown-menu">
+                    <h5 class="dropdown-header active clear-btn" style="color: darkgoldenrod; background-color: lightgray">Select An Option <span style="color: black">(OR click me to clear display)</span></h5>
+                    <a href="#" class="dropdown-item href-got" style="color: darkblue">Game Of Thrones</a>
+                    <a href="#" class="dropdown-item href-money-heist" style="color: darkblue">Money Heist / La Casa De Papel</a>
+                    <a href="#" class="dropdown-item href-wallpapers" style="color: darkblue">Season Films WallPapers...</a>
+                </div>
+            </div> <!--  END OF DROPDOWN MENU -->
+
+            <div class="row card-body catalogue-row" style="display: none">
+
+                <div class="col-sm-8 mb-4 catalogues-col1" style="background-color: lightseagreen">
+                    <p class="lead text-center card-title"><b>Catalogue 1</b></p>
+                    <div id="image-file1"></div>
+                </div>
+
+                <div class="col-sm-4 mb-4 bg-success catalogues-col2">
+                    <p class="lead text-center card-title"> <b>Catalogue 2</b></p>
+                    <div id="image-file2"></div>
+                </div>
+
+                <!--                WallPapers Col-->
+                <!--                Left Side-->
+                <div class="card col-sm-12 card mt-1 mb-4 catalogues-col3 mx-auto" style="display: none; background-color: forestgreen">
+                    <p class="card-title lead text-center text-light mt-1 mb-2"> <b>Catalogue+</b></p>
+                    <div class="card-body">
+                        <div class="row">
+                            <!--                        Left Side-->
+                            <div class="col-sm-3 mb-2 ml-4" style="background-color: seagreen; overflow: auto; border-style: groove; border-color: white">
+                                <ul class="nav flex-column nav-pills pt-4 mb-2">
+
+                                    <li class="nav-item"><a href="#" id="nav-link-got-quotes" class="nav-link btn btn-dark text-light mb-1">GOT Quotes</a> </li>
+
+                                    <li class="nav-item"><a href="#" id="nav-link-got-wallpapers" class="nav-link btn btn-dark text-light mb-1">GOT WallPapers</a> </li>
+
+                                    <li class="nav-item"><a href="#" id="nav-link-money-heist-wallpapers" class="nav-link btn btn-dark text-light mb-1">Money Heist WallPapers</a> </li>
+
+                                    <li class="nav-item"><a href="#" id="nav-link-sofia-the-first-wallpapers" class="nav-link btn btn-dark text-light mb-1">Sofia The First WallPapers</a> </li>
+
+                                </ul>
+                            </div>
+
+                            <!--                            Right Side-->
+                            <div class="card col-sm-8 ml-4 bg-success">
+                                <div class="card-header mt-2">
+                                    <h1 class="card-title lead text-center text-white">WallPapers Catalogue+</h1>
+                                    <h5 id="group-name" class="text-center"></h5>
+                                    <div class="progress">
+                                        <div id="progress-bar-width" class="progress-bar progress-bar-striped progress-bar-animated bg-dark">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <img id="image-file3" class="card-img img-fluid">
+                                </div>
+                                <div class="card-footer row">
+                                    <button id="btn-previous" class="col-sm-5 btn btn-dark ml-4 mr-2 mb-2 p-2">Previous</button>
+                                    <button id="btn-next" class="col-sm-5 btn btn-dark ml-4 mr-2 mb-2 p-2">Next</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--END OF Body UI -->
+
+    <footer class="mt-5 p-3 text-center bg-light"><img src="SeasonFilmsCasts/Logo/Saheed-Odulaja-JS3D-Logo-JS-by-me+-(NON_White_UI).png" style="width: 10%" class="animated flip slower"> <a href="#" id="copyRight"><span style="font-weight: 900; font-size: 1.2em"> &copy;</span> Copyright <span id="startYear">2019 </span> <span id="present-date"></span></a> by Saheed Odulaja<img src="SeasonFilmsCasts/Logo/Saheed-Odulaja-JS-3D-Logo-(NON_White).png" style="width: 15%" class="animated flip slower"></footer>
+
+
+    <script src="bootstrap/src/js/jquery.min.js"></script>
+    <script src="bootstrap/src/js/popper.min.js"></script>
+    <script src="bootstrap/src/js/bootstrap.min.js"></script>
+
+    <script src="Fetch-API.js"></script>
+    <script src="UI.js"></script>
+    <script src="Storage.js"></script>
+    <script src="APP.js"></script>
+
+</body>
+
+</html>
