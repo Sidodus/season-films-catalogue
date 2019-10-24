@@ -12,4 +12,5 @@ I implemented JS Iteration on the images within wallpapers section with a loop t
 
 View Site Here:
 https://sidodus.github.io/season-films-catalogue/
+
 https://sidodus.github.io/image-catalogue/
