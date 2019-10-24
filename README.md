@@ -11,6 +11,7 @@ Little Bug That Needs Fix:
 I implemented JS Iteration on the images within wallpapers section with a loop to reload the page when all images within a category is displayed, but most time the page reloads before the iteration count ends (this usually happens on first iteration session of different groups and normalizes thereafter).
 
 View Site Here:
+
 https://sidodus.github.io/season-films-catalogue/
 
 https://sidodus.github.io/image-catalogue/
